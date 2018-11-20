@@ -68,7 +68,7 @@ Code snippets for reference
 
 	});
 
-## UI / UX
+## UI / UX for Ajax 
 
 ### Warning Message (based on Bootstrap)
 **Objective** Errors can be passed in and a error message (from Bootstrap) will be generated, comes with dismissable button, and will fade out after certain time)
